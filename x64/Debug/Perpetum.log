@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\fivfi\OneDrive\Рабочий стол\Perpetum\Source.cpp(29,21): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\fivfi\OneDrive\Рабочий стол\Perpetum\Source.cpp(31,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\fivfi\OneDrive\Рабочий стол\Perpetum\Source.cpp(55,25): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\fivfi\OneDrive\Рабочий стол\Perpetum\Source.cpp(76,74): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\fivfi\OneDrive\Рабочий стол\Perpetum\Source.cpp(96,39): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\fivfi\OneDrive\Рабочий стол\Perpetum\Source.cpp(98,56): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\fivfi\OneDrive\Рабочий стол\Perpetum\Source.cpp(119,220): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\fivfi\OneDrive\Рабочий стол\Perpetum\Source.cpp(134,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\fivfi\OneDrive\Рабочий стол\Perpetum\Source.cpp(135,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Perpetum.vcxproj -> C:\Users\fivfi\OneDrive\Рабочий стол\Perpetum\x64\Debug\Perpetum.exe
